@@ -31,12 +31,12 @@ export default function AboutPage() {
           <div>
             <h2 className="text-3xl font-bold mb-6">Our Mission</h2>
             <p className="text-gray-600 mb-4">
-              We're on a mission to transform the lobster industry through cutting-edge technology
+              We are on a mission to transform the lobster industry through cutting-edge technology
               and sustainable practices. Our innovative solutions help improve efficiency,
               reduce waste, and ensure the highest quality products for our customers.
             </p>
             <p className="text-gray-600">
-              By combining traditional knowledge with modern technology, we're creating
+              By combining traditional knowledge with modern technology, we are creating
               a more sustainable and profitable future for the lobster industry.
             </p>
           </div>
